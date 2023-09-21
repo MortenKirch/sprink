@@ -1,0 +1,82 @@
+/* styles.css */
+
+.logo{
+    width: 200px;
+}
+
+body {
+    background-image: url(img/asset.gif);
+    background-size: cover;
+    background-repeat: no-repeat;
+    
+    }
+h1{
+    font-family: Impact, sans-serif; 
+    font-weight: 5;
+    color: #f9e5bf;
+    opacity: 70%;
+}
+nav ul{
+    background: black;
+    opacity: 50%;
+   padding: 10px;
+   
+    
+}
+
+
+li {
+    
+    display: inline-block;
+    padding: 20px;
+    text-align: center;
+    font-weight: 5;
+    font-family: Impact, sans-serif;
+    font-size: 24px;
+    color: #333;
+   
+}
+ul {
+font-size: 20px;
+padding: 20px;
+
+
+
+}
+a:active{
+    color: white;
+}
+a{
+    color: #f9e5bf;
+    text-align: center;
+    
+}
+
+div{
+    background-color: rgba(0, 0, 0, 0.5);
+    font-family: Impact, sans-serif;
+    margin: 30px;
+    display: block;
+    width: 300px;
+    height: 300px;
+    float: left;
+    padding-bottom: 10px;
+   
+}
+
+/* CUSTOMISING OF THE ICONS*/
+
+.fe{
+    max-height: 250px;
+   padding-left: 80px;
+   opacity: 70%;
+   width: 200px;
+}
+
+
+
+h2{
+    color: #f9e5bf;
+    opacity: 70%;
+    font-weight: 100;
+}
